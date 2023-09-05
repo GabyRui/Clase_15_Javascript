@@ -1,0 +1,9 @@
+body{
+    margin: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: justify;
+    line-height: 30px;
+}
